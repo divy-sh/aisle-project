@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="PHONE">phone</string>
+    <string name="TRUE">true</string>
+    <string name="countryCode">countryCode</string>
+    <string name="token">token</string>
+    <string name="otpTimeOut">Time to Enter OTP has Expired</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_discover">Discover</string>
+    <string name="title_notes">Notes</string>
+    <string name="title_matches">Matches</string>
+    <string name="title_profile">Profile</string>
+    <string name="loginfailed">Login Failed</string>
+    <string name="incorrect_otp">Entered OTP is Not Valid</string>
+    <!-- Strings used for fragments for navigation -->
+</resources>
